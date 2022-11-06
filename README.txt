@@ -3,6 +3,6 @@
 <title> Welcome </title>
 </head>
 <body>
-<h1> OST practical </h1>
+<h1> OSTpractical </h1>
 </body>
 </html>
